@@ -63,7 +63,6 @@ void mergeSort(int* a, int p, int r) {
 }
 int main()
 {
-    scanf
     int a[5] = {5,4,3,2,1};
     mergeSort(a,0,sizeof(a)/sizeof(int)-1);
     printf("最后归并排序结果");
